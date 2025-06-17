@@ -1,9 +1,8 @@
 <h1 align="center">Hello World!!!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B267&size=22&center=true&vCenter=true&multiline=true&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+Web+apaixonado+por+tecnologia!+💻" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7B267&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+Web+apaixonado+por+tecnologia!+💻" alt="Typing SVG" />
 </p>
-
 
 ---
 
