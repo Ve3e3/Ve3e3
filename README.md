@@ -1,8 +1,9 @@
 <h1 align="center">Hello World!!!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B267&size=22&center=true&vCenter=true&multiline=true&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+Web+apaixonado+por+tecnologia!+💻" alt="Typing SVG">
+  <img src="https://github.com/Ve3e3/Ve3e3/blob/main/sua-imagem.gif?raw=true" alt="Victor Lima">
 </p>
+
 
 ---
 
