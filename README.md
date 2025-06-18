@@ -53,7 +53,7 @@
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-lima-conceição-730378362" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-lima-concei%C3%A7%C3%A3o-a6666a345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/Ve3e3" target="_blank">
