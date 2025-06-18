@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/victor-lima-concei%C3%A7%C3%A3o-a6666a345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/Ve3e3" target="_blank">
+  <a href="https://www.instagram.com/victor_lim_a?igsh=MzY0ZGo4ZG5senk1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:victor.empresarial.LC@gmail.com">
