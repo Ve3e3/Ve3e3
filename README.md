@@ -9,10 +9,9 @@
 ### 🚀 Sobre mim
 
 <p align="center">
-  🌎 Sou do Brasil <br/>
+  🌎 Sou **Desenvolvedor Full Stack e Mobile** em formação (ADS - FATEC-SP). 🎓 <br/>
   💡 Curioso por tecnologia, fascinado por códigos e criação de novas ideias <br/>
-  🎯 Técnico em Programação pelo SENAC <br/>
-  🎓 Estudante de ADS (Análise e Desenvolvimento de Sistemas) na FATEC SP<br/>
+  🎯 Técnico em Programação pela instituição SENAC Faccini <br/>
   📬 Contato: victor.empresarial.LC@gmail.com
 </p>
 
