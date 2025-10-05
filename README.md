@@ -18,31 +18,59 @@
 
 ---
 
-### ⚙️ Tecnologias & Ferramentas
-
+<!-- Banner topo -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Victor%20Lima%20Conceição&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 Sobre mim  
+Sou **Desenvolvedor Full Stack e Mobile** em formação (ADS - FATEC-SP).  
+Apaixonado por **tecnologia, programação e análise de dados**, já atuei com desenvolvimento de aplicações web/mobile e tenho experiência em **JavaScript, React.js, React Native, PHP/Laravel e Node.js**.  
+
+Atualmente, busco me aprimorar em **desenvolvimento de sistemas, análise de dados e soluções inteligentes para problemas reais**. 🚀  
+
+---
+
+## ⚙️ Tecnologias & Ferramentas
+
+<p align="center">
+  <!-- Front-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  
+  <!-- Back-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  
+  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  
+  <!-- Outros -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ve3e3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ve3e3&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ve3e3&theme=tokyonight&hide_border=false"/>
 </div>
 
 ---
 
-### 📈 Linguagens mais usadas
+## 📈 Linguagens mais usadas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ve3e3&theme=onedark&layout=donut&langs_count=8" />
@@ -50,18 +78,29 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-lima-concei%C3%A7%C3%A3o-a6666a345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-lima-concei%C3%A7%C3%A3o-a6666a345" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/victor_lim_a?igsh=MzY0ZGo4ZG5senk1" target="_blank">
+  <a href="https://www.instagram.com/victor_lim_a" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:victor.empresarial.LC@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/Ve3e3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- Rodapé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
 </p>
 
 ---
