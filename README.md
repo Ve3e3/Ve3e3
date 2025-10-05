@@ -12,7 +12,7 @@
   🌎 Sou do Brasil <br/>
   💡 Curioso por tecnologia, fascinado por códigos e criação de novas ideias <br/>
   🎯 Técnico em Programação pelo SENAC <br/>
-  🎓 Estudante de ADS (Análise e Desenvolvimento de Sistemas) na FATEC <br/>
+  🎓 Estudante de ADS (Análise e Desenvolvimento de Sistemas) na FATEC SP<br/>
   📬 Contato: victor.empresarial.LC@gmail.com
 </p>
 
