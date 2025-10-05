@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ## ⚙️ Tecnologias & Ferramentas
 
 <p align="center">
