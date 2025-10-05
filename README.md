@@ -59,7 +59,7 @@
 ## 📈 Linguagens mais usadas
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ve3e3&theme=onedark&layout=donut&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=Ve3e3&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=3600&v=1&cache_seconds=3600&v=1)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ve3e3&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=3600&v=1" />
 </div>
 
 ---
