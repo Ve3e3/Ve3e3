@@ -1,8 +1,9 @@
 <h1 align="center" style="color:#ff1b68;">🔥 Hello, World! I'm Victor 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B267&size=22&center=true&vCenter=true&multiline=true&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+Web+apaixonado+por+tecnologia!+💻" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Victor%20Lima%20Conceição&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
 
 ---
 
@@ -16,19 +17,6 @@
 </p>
 
 ---
-
-<!-- Banner topo -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Victor%20Lima%20Conceição&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
----
-
-## 👨‍💻 Sobre mim  
-Sou **Desenvolvedor Full Stack e Mobile** em formação (ADS - FATEC-SP).  
-Apaixonado por **tecnologia, programação e análise de dados**, já atuei com desenvolvimento de aplicações web/mobile e tenho experiência em **JavaScript, React.js, React Native, PHP/Laravel e Node.js**.  
-
-Atualmente, busco me aprimorar em **desenvolvimento de sistemas, análise de dados e soluções inteligentes para problemas reais**. 🚀  
 
 ---
 
